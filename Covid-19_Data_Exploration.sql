@@ -32,7 +32,7 @@ order by 1,2
 
 
 
--- Total Cases vs Total Deathes (shows likelihood of dying if you contract Covid-19 in your country)
+-- Total Cases vs Total Deaths (shows likelihood of dying if you contract Covid-19 in your country)
 
 select 
 location,
