@@ -1,9 +1,9 @@
 /*
- Covid-19 Data Exploration
- Data from Our World In Data (https://ourworldindata.org/covid-deaths)
+Covid-19 Data Exploration
+Data from Our World In Data (https://ourworldindata.org/covid-deaths)
  
- Skills used: Aggregate Functions, Creating Views, Converting Data Types, Joins
- */
+Skills used: Aggregate Functions, Creating Views, Converting Data Types, Joins
+*/
 
 select *
 from "CovidDeaths.csv" cdc
